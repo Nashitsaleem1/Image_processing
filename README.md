@@ -133,9 +133,3 @@ bgr = cv2.imread("ISIC_0000042.jpg")
 ## Conclusion
 
 This project demonstrates a complete traditional pipeline for dermoscopic lesion detection, providing interpretable intermediate results at each stage. The classical approach is transparent and computationally efficient, making it suitable for real-time clinical applications. Moving forward, combining this step-by-step approach with modern data-driven methods could yield a powerful tool for automated dermoscopic analysis.
-
----
-
-**Author:** DIP Project Team  
-**Institution:** GTU Masters AI Program  
-**Date:** 2026
